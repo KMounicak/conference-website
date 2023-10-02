@@ -1,0 +1,66 @@
+.bg-container {
+    height: 130vh;
+    background-size: cover;
+}
+
+.conference-home-page-heading {
+    font-family: "roboto";
+    font-size: 17px;
+    color: #5a7184;
+    margin-top: 15px;
+}
+
+.image-card {
+    height: 60%;
+    width: 100%;
+    margin-top: 20px;
+    padding:10px;
+}
+
+.things-heading {
+    color: #183b56;
+    font-family: "roboto";
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.paragraph-description {
+    color: #5a7184;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.conference-details-page {
+    font-family: "roboto";
+    font-size: 17px;
+    color: #5a7184;
+    margin-bottom: 20px;
+}
+
+.view-more-description {
+    padding: 10px;
+}
+
+.details-container {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+.num-card {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.num-description {
+    font-family: "roboto";
+    font-size: 12px;
+    color: #5a7184;
+    font-weight: bold;
+}
